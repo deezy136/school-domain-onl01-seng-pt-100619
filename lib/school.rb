@@ -1,7 +1,9 @@
 # code here!
 class School
   
-  def initilize
+  def initialize(name)
+    
+  end
   
   
   
